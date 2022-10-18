@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T06:40:02.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VxksRYqOq_gPoGtZGKli" version="20.3.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-18T06:40:12.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="eb4VbySjcr27LbvuCYyP" version="20.3.7" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="财人汇物理图">
     <mxGraphModel dx="4512" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
@@ -113,6 +113,14 @@
         </mxCell>
         <mxCell id="mS-wyy-bUG0AQd56grwA-2300" value="AnyChat&#xa;10.169.42.71" style="verticalAlign=middle;verticalLabelPosition=bottom;labelPosition=center;align=center;outlineConnect=0;fillColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;labelBackgroundColor=default;fontFamily=Tahoma;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="-1687" y="1560" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dlJIYnkacZRtN385C83v-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;strokeColor=#FF9933;fontSize=30;endArrow=classic;endFill=1;" edge="1" parent="1" source="mS-wyy-bUG0AQd56grwA-2313" target="dlJIYnkacZRtN385C83v-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dlJIYnkacZRtN385C83v-58" value="同步" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=30;" vertex="1" connectable="0" parent="dlJIYnkacZRtN385C83v-57">
+          <mxGeometry x="-0.6487" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mS-wyy-bUG0AQd56grwA-2313" value="mysql&#xa;10.169.15.102" style="verticalAlign=middle;verticalLabelPosition=bottom;labelPosition=center;align=center;outlineConnect=0;fillColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;labelBackgroundColor=default;fontFamily=Tahoma;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="-1247" y="1230" width="110" height="110" as="geometry" />
