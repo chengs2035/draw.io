@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T06:49:41.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="hVNiBLgocsv-wdB3tNKG" version="20.3.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-18T06:49:59.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="s48-_9sRq1MRiU4cL74K" version="20.3.7" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="财人汇物理图">
-    <mxGraphModel dx="4154" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="6544" dy="2269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dlJIYnkacZRtN385C83v-59" value="宁桥路机房" style="rounded=0;fontSize=130;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="-2140" y="1200" width="1230" height="1010" as="geometry" />
+        <mxCell id="dlJIYnkacZRtN385C83v-59" value="宁桥路机房" style="rounded=0;fontSize=130;verticalAlign=bottom;spacing=25;" vertex="1" parent="1">
+          <mxGeometry x="-2140" y="1200" width="1210" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="dlJIYnkacZRtN385C83v-54" value="科技网机房" style="rounded=0;fontSize=130;verticalAlign=top;spacing=0;align=center;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="-2145" y="30" width="1220" height="1100" as="geometry" />
