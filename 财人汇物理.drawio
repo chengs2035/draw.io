@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T03:09:19.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VYHLpARgY8u4-J8aOiNp" version="21.0.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-16T03:15:14.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="W8AeDfKdubS7B6G5I737" version="21.0.6" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="财人汇物理图">
     <mxGraphModel dx="5181" dy="1336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
@@ -632,6 +632,9 @@
         </mxCell>
         <mxCell id="PI77mHwndJzFjn13TflB-59" value="xpe-dubbo-suitability" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_web_server;" vertex="1" parent="1">
           <mxGeometry x="-1484" y="1070" width="44" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="PI77mHwndJzFjn13TflB-71" value="" style="sketch=0;aspect=fixed;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="-1930" y="1220" width="50" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
