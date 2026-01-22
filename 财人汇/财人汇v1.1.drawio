@@ -39,20 +39,8 @@
         <mxCell id="jacQfxinman1W1GET0ht-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ORACLE" vertex="1">
           <mxGeometry height="30" width="60" x="-991" y="302" as="geometry" />
         </mxCell>
-        <mxCell id="jacQfxinman1W1GET0ht-8" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;fontColor=#FF3333;labelBackgroundColor=none;" value="10.169.15.3" vertex="1">
-          <mxGeometry height="55.2" width="57.2" x="-1400.6000000000001" y="510" as="geometry" />
-        </mxCell>
         <mxCell id="jacQfxinman1W1GET0ht-12" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance_2;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="" vertex="1">
           <mxGeometry height="63" width="60" x="-1115.4" y="285.5" as="geometry" />
-        </mxCell>
-        <mxCell id="jacQfxinman1W1GET0ht-14" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;fontColor=#FF3333;labelBackgroundColor=none;" value="10.169.15.4" vertex="1">
-          <mxGeometry height="55.2" width="57.2" x="-1306.8000000000002" y="510" as="geometry" />
-        </mxCell>
-        <mxCell id="jacQfxinman1W1GET0ht-15" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;fontColor=#FF3333;labelBackgroundColor=none;" value="10.169.15.5" vertex="1">
-          <mxGeometry height="55.2" width="57.2" x="-1210.6000000000001" y="510" as="geometry" />
-        </mxCell>
-        <mxCell id="jacQfxinman1W1GET0ht-16" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;fontColor=#FF3333;labelBackgroundColor=none;" value="10.169.15.6" vertex="1">
-          <mxGeometry height="55.2" width="57.2" x="-1120.6000000000001" y="510" as="geometry" />
         </mxCell>
         <mxCell id="jacQfxinman1W1GET0ht-17" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance_2;fillColor=#0050ef;fontColor=#FF3333;strokeColor=#001DBC;" value="10.169.15.100" vertex="1">
           <mxGeometry height="63" width="60" x="-1262" y="640" as="geometry" />
@@ -75,8 +63,17 @@
         <mxCell id="jacQfxinman1W1GET0ht-25" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;fontColor=#FF3333;labelBackgroundColor=none;" value="10.169.42.71" vertex="1">
           <mxGeometry height="55.2" width="57.2" x="-1355.4" y="647.8" as="geometry" />
         </mxCell>
-        <mxCell id="jacQfxinman1W1GET0ht-26" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;fontColor=#ffffff;" value="" vertex="1">
+        <mxCell id="jacQfxinman1W1GET0ht-26" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;fontColor=light-dark(#ff0000, #121212);labelBackgroundColor=none;" value="10.169.15.3" vertex="1">
           <mxGeometry height="55.2" width="57.2" x="-1550" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-27" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;fontColor=light-dark(#ff0000, #121212);labelBackgroundColor=none;" value="10.169.15.4" vertex="1">
+          <mxGeometry height="55.2" width="57.2" x="-1470" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-28" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;fontColor=light-dark(#ff0000, #121212);labelBackgroundColor=none;" value="10.169.15.5" vertex="1">
+          <mxGeometry height="55.2" width="57.2" x="-1390" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-29" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;fontColor=light-dark(#ff0000, #121212);labelBackgroundColor=none;" value="10.169.15.6" vertex="1">
+          <mxGeometry height="55.2" width="57.2" x="-1310" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
