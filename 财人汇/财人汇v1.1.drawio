@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="29.3.4">
+  <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
+    <mxGraphModel dx="3026" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+      <root>
+        <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
+        <UserObject label="宁桥路机房（主）" tooltip="宁桥路" id="dVj4H6XjtBrqNzYTulwi-2">
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;spacing=8;spacingTop=0;spacingLeft=0;align=left;verticalAlign=top;" vertex="1">
+            <mxGeometry height="261" width="538" x="-1336" y="495" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dVj4H6XjtBrqNzYTulwi-9" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;fontColor=#ffffff;" value="10.169.15" vertex="1">
+          <mxGeometry height="55.2" width="57.2" x="-1350" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="dVj4H6XjtBrqNzYTulwi-10" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.windows_repository;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="49.2" width="53.2" x="-1112" y="121" as="geometry" />
+        </mxCell>
+        <mxCell id="dVj4H6XjtBrqNzYTulwi-12" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="55.2" width="57.2" x="-1350" y="196" as="geometry" />
+        </mxCell>
+        <mxCell id="dVj4H6XjtBrqNzYTulwi-16" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.linux_repository;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="49.6" width="53.6" x="-1115" y="198.8" as="geometry" />
+        </mxCell>
+        <mxCell id="dVj4H6XjtBrqNzYTulwi-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Windows-虚拟机" vertex="1">
+          <mxGeometry height="30" width="108" x="-1289" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="dVj4H6XjtBrqNzYTulwi-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Linux-虚拟机" vertex="1">
+          <mxGeometry height="30" width="108" x="-1286" y="197" as="geometry" />
+        </mxCell>
+        <mxCell id="dVj4H6XjtBrqNzYTulwi-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Windows-物理机" vertex="1">
+          <mxGeometry height="30" width="108" x="-1022" y="137" as="geometry" />
+        </mxCell>
+        <mxCell id="dVj4H6XjtBrqNzYTulwi-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Linux-物理机" vertex="1">
+          <mxGeometry height="30" width="108" x="-1015" y="208.6" as="geometry" />
+        </mxCell>
+        <mxCell id="dVj4H6XjtBrqNzYTulwi-27" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" value="" vertex="1">
+          <mxGeometry height="64" width="48" x="-1345" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="dVj4H6XjtBrqNzYTulwi-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MySQL" vertex="1">
+          <mxGeometry height="30" width="108" x="-1297" y="302" as="geometry" />
+        </mxCell>
+        <mxCell id="dVj4H6XjtBrqNzYTulwi-29" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance_read_replica;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="" vertex="1">
+          <mxGeometry height="66" width="49.5" x="-1115" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dVj4H6XjtBrqNzYTulwi-31" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=stencil(3VlLc5swEP41vmr0Qo9jx02PueTQM01ow9QBD3aS+t93QSDQYgjIdmdSj2dsVmb329U+PuGN2B6e03224TQ97LPH40Z83XD+llZ5+mMHYg4rz04oJaHSSYr0JXNCxpgTHY5V+Tt7z5+O7c/z4jmr8qNbfXcywYmuBeJuQ7+AuH6L7WNZFGA6L4tDsDJYB+1pXhwD0/dO9R6svGTHrHJS6qR/2iuSuOtTd025E2z4tzXGHqKMWRNl7PsSY8hUEmXpboEldhVL9zFOsThTMV7FmXqI8crYOFsxbk3ZEluQTBWe2P4sq+xXVb4WT2cRHtK3bMaBfVo3gdFCt/xSNnefjY4kRs1Fx8fotXJKWBgF3oaBSN1KRNt6SNIW44l1EitaSXsX9wV7Ep1EiBg4jBEqQkjgmpIIEyVChqBoiIgSKTEirWMQCUZ4EiKCbqwEQtQ26GGUmAkxCWJEiEl+kNIdpl1eDDZ+YMsJFNEyyjWvyMfaEstCz7j2getcM4Tz0DVLmA1ds0TPDowpTPXOsRAUA5EJQfUpceoTp8vcDhSImMao1GwXnoyU19SBoiEgGqKxhNsQjPFZ1GFRxCyL0K48TDeN871hlCLCEjo7U5fnCBSfwTliiLVhBCQdhUDCfqCiBFF0mgge4oKMs7h1SY5QSQRJkGSESEUhAk9Q3s6nCBiiqEHUMWMhHNg3Njthz7eIcDb0ubdyNhCK+wMxqBXL3guf+woXIu1niPAiGzcgABSK82BaDxKSoYRk3G+sx8X7Sdbhgl2JilXdOdVoTOBZOpoSdWhQtPoe1YECZ5Zhmu0UDXOZYBhAXPLdbubWevmx3JUVXLrPBtkGukHzmoMntulu/5zCV/fZ5tbs9q/kQpLY8AihiYma9nVe4vFjSYKmPahXaCMtEclH+6jJomk/asGQI3J9amnCVIhIEf4ZCAgfBftfExA0WZg/u31q/qFCLEv5x9xkudKpA04LCgfYFzTzyYv2XPcSX2ALq/4qlEr7kF5UPP8jNUNHOEsQfz/HzPxDsgE5k3YEKpqdramfmpyhar4VOavTKGpUjWqIo5EgPVPyZ1LjD67+UGr7viW8p3SRWxiR9VxmQM00qmxISKlH0VZoeEo+Tsiejq6mZl2nWzM/ITIKDVCIn0ZEdnEXuCE5q7LDsazmlFf1E+rpZfcMeuYH0/TvZ/OaC8BKKpd4StIViIrqsyM9TJNk0fAN9TCYveIqilRPEX27pot4E1Jk++PURYhqCpDcRlHkptVdzNxGEV86z1CwTU+aL0LEpH+KdaEiIKhi5NqizviRosWIbtDMmptGj88bqfunrRH8BQ==);fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;convertToSvg=1;" value="" vertex="1">
+          <mxGeometry height="66" width="49.5" x="-650" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
