@@ -1,15 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="29.3.4">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="2788" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2815" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
         <UserObject label="宁桥路机房（主）" tooltip="宁桥路" id="dVj4H6XjtBrqNzYTulwi-2">
-          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;spacing=8;spacingTop=0;spacingLeft=0;align=left;verticalAlign=top;" vertex="1">
-            <mxGeometry height="261" width="538" x="-1336" y="495" as="geometry" />
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;spacing=8;spacingTop=0;spacingLeft=0;align=left;verticalAlign=top;fillColor=none;dashed=1;dashPattern=8 8;fontColor=#FF3333;" vertex="1">
+            <mxGeometry height="570" width="700" x="-1720" y="440" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dVj4H6XjtBrqNzYTulwi-9" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;fontColor=#ffffff;" value="10.169.15" vertex="1">
+        <mxCell id="dVj4H6XjtBrqNzYTulwi-9" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;fontColor=#ffffff;" value="" vertex="1">
           <mxGeometry height="55.2" width="57.2" x="-1350" y="115" as="geometry" />
         </mxCell>
         <mxCell id="dVj4H6XjtBrqNzYTulwi-10" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.windows_repository;fontColor=#ffffff;" value="" vertex="1">
@@ -33,23 +33,50 @@
         <mxCell id="dVj4H6XjtBrqNzYTulwi-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Linux-物理机" vertex="1">
           <mxGeometry height="30" width="108" x="-1015" y="208.6" as="geometry" />
         </mxCell>
-        <mxCell id="dVj4H6XjtBrqNzYTulwi-27" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" value="" vertex="1">
-          <mxGeometry height="64" width="48" x="-1345" y="285" as="geometry" />
-        </mxCell>
         <mxCell id="dVj4H6XjtBrqNzYTulwi-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MySQL" vertex="1">
           <mxGeometry height="30" width="108" x="-1297" y="302" as="geometry" />
         </mxCell>
-        <mxCell id="jacQfxinman1W1GET0ht-6" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="66" width="60" x="-1120" y="284" as="geometry" />
-        </mxCell>
-        <mxCell id="dVj4H6XjtBrqNzYTulwi-31" parent="jacQfxinman1W1GET0ht-6" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=stencil(3VhNc5swEP01vu7oCwkdO256zCWHnmlCaqYOeLCT1P++CwKBFkOwmnQm9WTGYWXYt0/78cRGbo+77JBvBMuOh/z+tJFfN0K8ZHWR/dijWeDKzhmVAqacpcyecmfknDvT8VRXv/LX4uHU/bwod3ldnNzqq7NJAaYxyJsN+4Lm5k9u76uyRNdFVR6DldE6Pj0rylPg+tY9+oBenvJTXjsrc9bf3RUk7vrcXzPhDBvx7Rpnd1HObBrl7PsaZ8RVEuXpZoUn/i6ebmOC4nGuYqKKc3UXE1Vq43zFhDXnS27RMld4cvtY1fnPunouHy4iPGYv+UIAh6xpApOFfvmpau++yI6CVC+x4zl6rt1DeMiC6GgAZTqL7FoPJF0xnnlvsbKzdHcJX7Bn2VukjIHDOTAZQsLQtCKYGEgVgmIhIgZKUUTGxCCSHEQSIsJurCVB1DXoMUs8DTFJSGWISb2R0j2mfVGONn7kyxk0GBUVmn+Q59qC5WFkwnji+tBSECIMzQK3YWgWzOLAmMPU7BwPQXE0pSGoISXOQ+L0mduDQhM3FJVe7MKzTPkn9aBYCIiFaCwIG4JJfRb1WDSk6xjaV8f5pnG5N0xSRFpgizN1fY5g8aU0R1KwNmRAsQkFCveDFCWaotNEihAXZpylrUsJgkoRSBKSCSIdhQgjIXm7nCLoiJEG0XDGQzi4b3xxwl5uEeFsGHLvytkAjPYHSEkrVkMUPvc1LUQ2zBDpTTZuQCAowvNoWo8SkpOE5MJvrMclhknW48JdieKq6Zx6MiboLJ1MiYYawtbQo3pQGMw6TIudolUuMwoDhUux3y/c2izfV/uqxkv33SLbYDdoP0vw5DbbH3YZ/uu+u9xa3P4rtZACGx4hDKRR077JSzp+LCRk2uPjNdlICzJ5ax8NrJr2kxaMOaKuTy0DXIeINIjPIEDEhOx/LUDIZOH+7Pap9YcOsazVH0uT5Z1OHXha0JRgX9DcJy/ZczNYfIGtrPp3kVTGU/pXxfM/SjNyhLNA9PslZeZfko3EmbITUNHq7Jr6acQZqeaPEmdNGkWNqkkNCTISlFdK/kya+oOrP5TaoW9JHylbFRZFZL2WGUkzQyobE1KZCduaDE8lpgk5yNGrpVnf6a6Zn8iMJgMU+TNEyK7uAh8ozur8eKrqpYfXzRvq+WX3DnrhB/Py77H9LBHwppT7AGbamybv4lqre23fGv4A);fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;convertToSvg=1;noLabel=0;" value="" vertex="1">
-          <mxGeometry height="66" width="49.5" x="5" as="geometry" />
-        </mxCell>
-        <mxCell id="jacQfxinman1W1GET0ht-5" parent="jacQfxinman1W1GET0ht-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=1;fontSize=18;fontColor=#FFFFFF;" value="ORA" vertex="1">
-          <mxGeometry height="30" width="60" y="26" as="geometry" />
-        </mxCell>
         <mxCell id="jacQfxinman1W1GET0ht-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ORACLE" vertex="1">
           <mxGeometry height="30" width="60" x="-991" y="302" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-8" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;fontColor=#FF3333;labelBackgroundColor=none;" value="10.169.15.3" vertex="1">
+          <mxGeometry height="55.2" width="57.2" x="-1400.6000000000001" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-12" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance_2;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="" vertex="1">
+          <mxGeometry height="63" width="60" x="-1115.4" y="285.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-14" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;fontColor=#FF3333;labelBackgroundColor=none;" value="10.169.15.4" vertex="1">
+          <mxGeometry height="55.2" width="57.2" x="-1306.8000000000002" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-15" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;fontColor=#FF3333;labelBackgroundColor=none;" value="10.169.15.5" vertex="1">
+          <mxGeometry height="55.2" width="57.2" x="-1210.6000000000001" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-16" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;fontColor=#FF3333;labelBackgroundColor=none;" value="10.169.15.6" vertex="1">
+          <mxGeometry height="55.2" width="57.2" x="-1120.6000000000001" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-17" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance_2;fillColor=#0050ef;fontColor=#FF3333;strokeColor=#001DBC;" value="10.169.15.100" vertex="1">
+          <mxGeometry height="63" width="60" x="-1262" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-18" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance_2;fillColor=#2E73B8;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="63" width="60" x="-1355" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-21" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ms_sql_instance_2;fillColor=#2E73B8;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="63" width="60" x="-1550" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SQL SERVER" vertex="1">
+          <mxGeometry height="30" width="108" x="-1480" y="302" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-23" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance_2;fillColor=#0050ef;fontColor=#FF3333;strokeColor=#001DBC;" value="10.169.15.101" vertex="1">
+          <mxGeometry height="63" width="60" x="-1160" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-24" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;fontColor=#FF3333;labelBackgroundColor=none;" value="10.169.42.70" vertex="1">
+          <mxGeometry height="55.2" width="57.2" x="-1449.2" y="647.8" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-25" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_windows;fontColor=#FF3333;labelBackgroundColor=none;" value="10.169.42.71" vertex="1">
+          <mxGeometry height="55.2" width="57.2" x="-1355.4" y="647.8" as="geometry" />
+        </mxCell>
+        <mxCell id="jacQfxinman1W1GET0ht-26" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="55.2" width="57.2" x="-1550" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
