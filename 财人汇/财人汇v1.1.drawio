@@ -280,6 +280,18 @@
         <mxCell id="r-ajzUyX-7vgkvLNCmBF-3" edge="1" parent="1" source="T0tpOsW_s1JpEA7HqWoE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="T0tpOsW_s1JpEA7HqWoE-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="r-ajzUyX-7vgkvLNCmBF-5" edge="1" parent="1" source="r-ajzUyX-7vgkvLNCmBF-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="T0tpOsW_s1JpEA7HqWoE-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-ajzUyX-7vgkvLNCmBF-6" edge="1" parent="1" source="r-ajzUyX-7vgkvLNCmBF-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="T0tpOsW_s1JpEA7HqWoE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-ajzUyX-7vgkvLNCmBF-7" edge="1" parent="1" source="r-ajzUyX-7vgkvLNCmBF-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="T0tpOsW_s1JpEA7HqWoE-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-ajzUyX-7vgkvLNCmBF-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Redis、Zookeeper、ActiveMQ，高可用" vertex="1">
+          <mxGeometry height="60" width="100" x="-1758.3" y="1900" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
