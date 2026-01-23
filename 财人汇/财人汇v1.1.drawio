@@ -238,7 +238,7 @@
           <mxGeometry height="55.2" width="57.2" x="16.900000000000205" y="127.39999999999986" as="geometry" />
         </mxCell>
         <mxCell id="T0tpOsW_s1JpEA7HqWoE-59" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="109" width="310" x="-1190.3" y="1671" as="geometry" />
+          <mxGeometry height="109" width="310" x="-1193.3" y="1901" as="geometry" />
         </mxCell>
         <mxCell id="T0tpOsW_s1JpEA7HqWoE-18" parent="T0tpOsW_s1JpEA7HqWoE-59" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#001DBC;fontColor=#000000;fillColor=#0050ef;opacity=10;align=left;verticalAlign=top;fontSize=23;labelBorderColor=none;" value="金桥业务一区-DB" vertex="1">
           <mxGeometry height="109" width="310" as="geometry" />
